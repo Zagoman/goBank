@@ -1,4 +1,4 @@
-#GoBank, a bank API written in go
+# GoBank, a bank API written in go
 
 This repository represents an attempt of learning how to structure an API with go, including Authentication with JWT token, Docker container running a Postgress server, and more. 
 
